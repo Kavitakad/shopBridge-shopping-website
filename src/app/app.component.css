@@ -1,0 +1,15 @@
+.one{
+    color: blue;
+}
+.two{
+    font-size: 60px;
+}
+.three{
+    color: green;
+}
+.four{
+    font-size: 95px;
+}
+input.ng-invalid.ng-touched{
+    border-color: red;
+}
